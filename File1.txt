@@ -5,3 +5,4 @@ Commit test
 Add line
 new branch line
 new line
+New line 2
