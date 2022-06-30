@@ -7,3 +7,4 @@ new branch line
 new line
 New line 2
 new merge
+Creating new line
