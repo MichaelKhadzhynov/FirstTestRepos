@@ -3,7 +3,7 @@ Commit test
 1234214
 785409.
 Add line
-new branch line
+new branch linef
 new line
 New line 2
 new merge
